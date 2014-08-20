@@ -1,6 +1,6 @@
 # Yeti UI
 
-A dark colored UI theme for Atom with custom file icons. [Yeti Syntax](https://atom.io/themes/yeti-syntax) also available.
+A light colored UI theme for Atom with custom file icons, that looks amazing combined with [Yeti Syntax](https://atom.io/themes/yeti-syntax).
 
 ![Screenshot](https://github.com/jesseweed/yeti-ui/raw/master/screenshot.png)
 
@@ -13,4 +13,4 @@ A dark colored UI theme for Atom with custom file icons. [Yeti Syntax](https://a
 
 ## Feeling Darker?
 
-Checkout Yeti's cousin themes [Seti UI](https://atom.io/themes/yeti-ui) & [Seti Syntax](https://atom.io/themes/yeti-syntax)
+Checkout Yeti's cousin themes [Seti UI](https://atom.io/themes/seti-ui) & [Seti Syntax](https://atom.io/themes/seti-syntax)
